@@ -1,0 +1,11 @@
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\spritesheet.xnb
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\ShmupSlut.exe
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\ShmupSlut.pdb
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\obj\x86\Debug\ShmupSlut.csprojResolveAssemblyReference.cache
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\obj\x86\Debug\ShmupSlut.exe
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\obj\x86\Debug\ShmupSlut.pdb
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\font.xnb
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\fontSmall.xnb
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\levelCompleted.xnb
+C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\gameOver.xnb
