@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\BGnightSky.xnb</Output>
-      <Time>2014-04-08T22:55:26.0671606+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\BGnightSky.xnb</Output>
+      <Time>2014-04-25T15:52:36.84841+02:00</Time>
     </Item>
     <Item>
       <Source>BGcityA.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\BGcityA.xnb</Output>
-      <Time>2014-04-08T22:55:26.0691607+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\BGcityA.xnb</Output>
+      <Time>2014-04-25T15:52:36.8354092+02:00</Time>
     </Item>
     <Item>
       <Source>BGcityB.png</Source>
@@ -25,17 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\BGcityB.xnb</Output>
-      <Time>2014-04-08T22:55:26.0701608+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Font1.spritefont</Source>
-      <Name>Font1</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\Font1.xnb</Output>
-      <Time>2014-05-15T00:06:10.4893426+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\BGcityB.xnb</Output>
+      <Time>2014-04-25T15:52:36.8374093+02:00</Time>
     </Item>
     <Item>
       <Source>PlayerShip.png</Source>
@@ -43,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\PlayerShip.xnb</Output>
-      <Time>2014-05-07T14:14:54.9158293+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\PlayerShip.xnb</Output>
+      <Time>2014-05-16T20:04:36.0579344+02:00</Time>
     </Item>
     <Item>
       <Source>shot.png</Source>
@@ -52,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\shot.xnb</Output>
-      <Time>2014-05-09T09:24:36.7859905+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\shot.xnb</Output>
+      <Time>2014-05-16T20:04:36.1619404+02:00</Time>
     </Item>
     <Item>
       <Source>enemy.png</Source>
@@ -61,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\enemy.xnb</Output>
-      <Time>2014-05-12T00:19:49.9629491+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2014-05-16T20:04:36.0609346+02:00</Time>
     </Item>
     <Item>
       <Source>enemyShadow.png</Source>
@@ -70,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\enemyShadow.xnb</Output>
-      <Time>2014-05-14T15:01:24.1640908+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\enemyShadow.xnb</Output>
+      <Time>2014-05-16T20:04:36.0939365+02:00</Time>
     </Item>
     <Item>
       <Source>PlayerShipShadow.png</Source>
@@ -79,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\PlayerShipShadow.xnb</Output>
-      <Time>2014-05-14T15:14:24.4667811+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\PlayerShipShadow.xnb</Output>
+      <Time>2014-05-16T20:04:36.0599346+02:00</Time>
     </Item>
     <Item>
       <Source>shotShadow.png</Source>
@@ -88,8 +79,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\shotShadow.xnb</Output>
-      <Time>2014-05-14T15:28:52.8730356+02:00</Time>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\shotShadow.xnb</Output>
+      <Time>2014-05-16T20:04:36.1639405+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2014-05-16T20:04:36.0559343+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -97,10 +97,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANGContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANGContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\sul13ajohanh\Documents\Visual Studio 2010\Projects\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANGContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANGContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\sul13atom\Documents\GitHub\Spel-till-programmeringen\JG0NE's Geim\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\FinalP_JOHAN_HUANG\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -129,7 +129,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-03-31T15:49:52.1133415+02:00</Value>
+        <Value>2013-09-02T09:49:18.4406741+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
