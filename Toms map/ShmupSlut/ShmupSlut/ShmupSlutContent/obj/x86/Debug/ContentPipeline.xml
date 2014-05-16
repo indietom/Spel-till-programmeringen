@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\spritesheet.xnb</Output>
-      <Time>2014-04-25T17:25:19.1135533+02:00</Time>
+      <Output>C:\Users\sul13ajohanh\Documents\GitHub\Spel-till-programmeringen\Toms map\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\spritesheet.xnb</Output>
+      <Time>2014-04-25T18:46:26.0105873+02:00</Time>
     </Item>
     <Item>
       <Source>font.spritefont</Source>
@@ -16,8 +16,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\font.xnb</Output>
-      <Time>2014-04-02T20:20:05.8963638+02:00</Time>
+      <Output>C:\Users\sul13ajohanh\Documents\GitHub\Spel-till-programmeringen\Toms map\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2014-04-25T18:46:25.7545727+02:00</Time>
     </Item>
     <Item>
       <Source>fontSmall.spritefont</Source>
@@ -25,8 +25,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\fontSmall.xnb</Output>
-      <Time>2014-04-05T12:39:00.0821191+02:00</Time>
+      <Output>C:\Users\sul13ajohanh\Documents\GitHub\Spel-till-programmeringen\Toms map\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\fontSmall.xnb</Output>
+      <Time>2014-04-25T18:46:25.8175763+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -34,10 +34,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlutContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlutContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\sul13atom\Documents\Visual Studio 2010\Projects\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\sul13ajohanh\Documents\GitHub\Spel-till-programmeringen\Toms map\ShmupSlut\ShmupSlut\ShmupSlutContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\sul13ajohanh\Documents\GitHub\Spel-till-programmeringen\Toms map\ShmupSlut\ShmupSlut\ShmupSlut\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\sul13ajohanh\Documents\GitHub\Spel-till-programmeringen\Toms map\ShmupSlut\ShmupSlut\ShmupSlutContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\sul13ajohanh\Documents\GitHub\Spel-till-programmeringen\Toms map\ShmupSlut\ShmupSlut\ShmupSlut\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -66,7 +66,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-09-02T09:49:18.4406741+02:00</Value>
+        <Value>2014-03-31T15:49:52.1133415+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
